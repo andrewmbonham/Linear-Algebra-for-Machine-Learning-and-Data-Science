@@ -1,5 +1,7 @@
 # Linear-Algebra-for-Machine-Learning-and-Data-Science
 
+This course is part of the [Mathematics for Machine Learning and Data Science Specialization](https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/) by [DeepLearning.AI](https://www.deeplearning.ai).
+
 After completing this course, learners will be able to:
 - Represent data as vectors and matrices and identify their properties using concepts of singularity, rank, and linear independence, etc.
 - Apply common vector and matrix algebra operations like dot product, inverse, and determinants 
